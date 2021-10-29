@@ -1,5 +1,3 @@
-**Note: for support questions, please use [discord tickets](https://spoopydev.com/discord)**. This repository's issues are reserved for feature requests and bug reports.
-
 * **I'm submitting a ...**
   - [ ] bug report
   - [ ] feature request
